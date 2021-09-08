@@ -711,11 +711,26 @@ Skills
   width: 50%;
   border-radius: var(--radius);
 }
+.value-40 {
+  width: 40%;
+}
+.value-60 {
+  width: 60%;
+}
+.value-65 {
+  width: 65%;
+}
 .value-70 {
   width: 70%;
 }
+.value-75 {
+  width: 75%;
+}
 .value-80 {
   width: 80%;
+}
+.value-90 {
+  width: 90%;
 }
 .skill-text {
   position: absolute;
@@ -724,11 +739,26 @@ Skills
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
 }
+.skill-text-40 {
+  left: 40%;
+}
+.skill-text-60 {
+  left: 60%;
+}
+.skill-text-65 {
+  left: 65%;
+}
 .skill-text-70 {
   left: 70%;
 }
+.skill-text-75 {
+  left: 75%;
+}
 .skill-text-80 {
   left: 80%;
+}
+.skill-text-90 {
+  left: 90%;
 }
 /*
 =============== 
